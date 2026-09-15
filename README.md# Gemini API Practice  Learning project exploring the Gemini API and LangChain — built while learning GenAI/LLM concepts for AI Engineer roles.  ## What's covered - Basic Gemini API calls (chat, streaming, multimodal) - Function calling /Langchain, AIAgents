@@ -1,0 +1,16 @@
+# Gemini API Practice
+
+Learning project exploring the Gemini API and LangChain — built while learning GenAI/LLM concepts for AI Engineer roles.
+
+## What's covered
+- Basic Gemini API calls (chat, streaming, multimodal)
+- Function calling / tool use
+- RAG (Retrieval-Augmented Generation) — manual and LangChain versions
+- LangChain: prompts, chains (LCEL), agents, memory
+- Vector databases: FAISS, Chroma
+- Document loaders (PDF, text, CSV, web)
+
+## Setup
+1. Clone this repo
+2. Create a virtual environment: `python -m venv venv`
+3. Activate it and install dependencies:
